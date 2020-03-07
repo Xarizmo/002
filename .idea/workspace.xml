@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16e1ccc8-d85c-4f31-8207-e18b34c066b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <updated>1583569401159</updated>
       <workItem from="1583569402677" duration="3598000" />
       <workItem from="1583582727407" duration="28000" />
-      <workItem from="1583586329972" duration="5199000" />
+      <workItem from="1583586329972" duration="5548000" />
     </task>
     <task id="LOCAL-00001" summary="add new paragraph">
       <created>1583571707264</created>
@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583571707264</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="additional text">
+      <created>1583608278431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583608278431</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,13 +95,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new paragraph" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new paragraph" />
+    <MESSAGE value="additional text" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional text" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="576" y="214" width="1140" height="882" key="CommitChangelistDialog2" timestamp="1583571705569">
+    <state x="576" y="214" width="1140" height="882" key="CommitChangelistDialog2" timestamp="1583608277170">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="576" y="214" width="1140" height="882" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583571705569" />
+    <state x="576" y="214" width="1140" height="882" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583608277170" />
     <state x="868" y="495" key="Github.ShareDialog" timestamp="1583570237490">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -103,10 +111,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="553" y="293" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583605842052" />
-    <state x="589" y="327" key="Vcs.Push.Dialog.v2" timestamp="1583571833697">
+    <state x="589" y="327" key="Vcs.Push.Dialog.v2" timestamp="1583608288580">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="589" y="327" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583571833697" />
+    <state x="589" y="327" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583608288580" />
     <state x="700" y="362" width="672" height="678" key="search.everywhere.popup" timestamp="1583606565084">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
