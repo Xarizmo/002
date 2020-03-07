@@ -31,6 +31,7 @@ function App() {
         <li>Consectetur corporis dolore dolorum, impedit ipsa minima natus totam voluptatem.</li>
         <li>Ab fuga labore nisi! Dolore est iusto numquam odit omnis!</li>
       </ul>
+      <h1>Main header</h1>
     </div>
   );
 }
