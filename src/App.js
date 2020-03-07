@@ -28,6 +28,8 @@ function App() {
         <li>Aliquam aut dolores enim excepturi neque, optio perspiciatis provident quaerat.</li>
         <li>Consectetur corporis dolore dolorum, impedit ipsa minima natus totam voluptatem.</li>
         <li>Ab fuga labore nisi! Dolore est iusto numquam odit omnis!</li>
+        <li>Consectetur corporis dolore dolorum, impedit ipsa minima natus totam voluptatem.</li>
+        <li>Ab fuga labore nisi! Dolore est iusto numquam odit omnis!</li>
       </ul>
     </div>
   );
