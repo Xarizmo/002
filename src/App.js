@@ -32,6 +32,7 @@ function App() {
         <li>Ab fuga labore nisi! Dolore est iusto numquam odit omnis!</li>
       </ul>
       <h1>Main header</h1>
+      <h2>Main subheader</h2>
     </div>
   );
 }
